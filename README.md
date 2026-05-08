@@ -15,4 +15,4 @@ The App does not integrate any third-party SDKs, advertising plugins, or analyti
 The App only requests system permissions strictly necessary for its core functions. We do not access sensitive permissions (e.g., Camera, Photos, Contacts) without your explicit authorization for a specific feature.
 
 5.**Contact Us** 
-If you have any questions regarding this Privacy Policy, please contact us at: 3091841458@qq.com.
+If you have any questions regarding this Privacy Policy, please contact us at: postmaster@musum.net.
